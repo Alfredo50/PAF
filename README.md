@@ -1,12 +1,11 @@
 # Microsoft Partner Acceleration Framework (MSPAF)
-This is the top level repository for the Microsoft Partner Acceleration Framework (MCW) project. Each workshop is maintained in its own repository.  Issues and activity for each individal workshop should take place in those repos.  This repository contains the Wiki, captures the overall process to create and maintain MCW content, and top level issues that are not specific to individual workshops.
+This is the top level repository for the Microsoft Partner Acceleration Framework (MSPAF) project. Each workshop is maintained in its own repository. Issues and activity for each individal workshop should take place in those repos.  This repository contains the Wiki, captures the overall MSPAF content, and top level issues that are not specific to individual workshops.
 
 
-## Maintained workshops
-Here is the list of workshops currently being maintained, before creating a new workshop, determine if the work you would like to do is better captured as part of these workshops:
+## Workshops
+Here is the list of workshops:
 
-1. [App modernization](https://github.com/Microsoft/MCW-App-Modernization)
-1. [Azure Blockchain](https://github.com/Microsoft/MCW-Azure-Blockchain)
+1. [App modernization](https://github.com/MSPAF/PAF-App-Modernization)
 1. [Azure security and management](https://github.com/Microsoft/MCW-Azure-Security-and-Management)
 1. [Azure security, privacy, and compliance](https://github.com/Microsoft/MCW-Azure-Security-Privacy-and-Compliance)
 1. [Azure Stack](https://github.com/Microsoft/MCW-Azure-Stack)
@@ -38,6 +37,3 @@ Here is the list of workshops currently being maintained, before creating a new 
 1. [SQL Server hybrid cloud](https://github.com/Microsoft/MCW-SQL-Server-Hybrid-Cloud)
 1. [Windows Server and SQL Server 2008 R2 end of support planning](https://github.com/Microsoft/MCW-Windows-Server-and-SQL-Server-2008-R2-End-of-Support-Planning)
 
-## Contributed Content
-Here is list of contributed content that is related to the Microsoft Partner Acceleration Framework program, these may be similar content or forks of workshops that we want to make sure everyone is aware of:
-- [content name](https://www.github.com/name)
